@@ -13,12 +13,12 @@ npm install -g https://github.com/guibonafini/guilelang.git
 A utilização é feita através da execução de um arquivo script através do seguinte comando:
 
 ```
-guilang run ./caminho-do-arquivo.guile
+guilelang run ./caminho-do-arquivo.guile
 ```
 
 Ex.:
 ```sh
-~: guilang run ./sum-number.guile
+~: guilelang run ./sum-number.guile
 ~: A soma é igual a 18
 ```
 
